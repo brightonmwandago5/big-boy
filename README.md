@@ -5,7 +5,7 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [COMP1238](comp1238.md)
 
-##Schedule 
+## Schedule 
 - Monday
     - 12:00 - [IT Essentials](https://learn.georgebrown.ca/d2l/home/515478)
     - 14:00 - [Fund. of Comput Logic](https://learn.georgebrown.ca/d2l/home/514711)
